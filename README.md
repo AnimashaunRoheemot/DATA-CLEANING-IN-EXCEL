@@ -29,8 +29,8 @@ This project focuses on cleaning a messy dataset using Microsoft Excel. The data
 - Built a strong foundation for visualization in Power BI / Excel Dashboards  
 
 ## 📂 Files  
--  → Original messy dataset  
-- "C:\Users\user\OneDrive\Documents\Animashaun roheemot Excel project cohort 8.xlsx" → Final cleaned dataset  
+- → raw dataset  
+- → Final cleaned dataset  
 - README.md → Project documentation  
 ## 📧 Contact  
 For questions or collaboration:  
