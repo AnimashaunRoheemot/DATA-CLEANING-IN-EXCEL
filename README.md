@@ -10,8 +10,8 @@ This project focuses on cleaning a messy dataset using Microsoft Excel. The data
 
 ## 🛠 Tools & Skills Used  
 - Microsoft Excel  
-  - Remove Duplicates  
-  - Find & Replace  
+- Remove Duplicates  
+- Find & Replace  
   - Data Validation  
   - IF, TRIM, PROPER, and TEXT functions  
   - Pivot Tables  
